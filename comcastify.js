@@ -64,7 +64,7 @@ var comcastifyjs = (function () {
 
         // set up initial state of box
         slowload.style.backgroundColor = params.boxColor;
-        slowload.style.backgroundImage="url('GESCHICHTE.jpeg')";
+        slowload.style.backgroundImage="url('GESCHICHTE.gif')";
         slowload.style.backgroundSize='cover';
         slowload.style.width = img.offsetWidth + 'px';
         slowload.style.height = img.offsetHeight + 'px';
